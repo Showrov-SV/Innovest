@@ -1,0 +1,17 @@
+# Main Menu --
+
+Choose to log in or sign up as either a User or Admin.
+
+# User Options --
+
+•	View Balance: Check your account balance.
+•	Deposit Money: Deposit funds with verification.
+•	Transfer Money: Transfer funds to another user account.
+•	Invest Money: Invest in one of the listed options (Tech Company A, B, etc.) with a small service fee.
+•	Transaction History: View all deposits, transfers, and investment transactions.
+
+# Admin Options --
+
+•	Admin Login: Access additional features for managing user data (to be implemented).
+•	View and Manage Users: Admins can access and modify user data (in future updates).
+
